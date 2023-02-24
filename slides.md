@@ -108,7 +108,3 @@ layout: two-cols
     font-size: 13px;
   }
 </style>
----
-transition: slide-up
----
-
