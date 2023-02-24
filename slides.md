@@ -63,14 +63,14 @@ layout: two-cols
 
 <div>
 
-## 嵌入式
+## 🥳嵌入式
 
 - 用cjson数据交互格式，统一采用parson.c文件移植，稍后会发群里
 - 会有很多基础任务和拓展任务，需要合理地安排项目分配
 - “项目组成员独立完成项目设计”，所以遇到问题要先查再问、多查减问，加强项目内部成员交流
 
 
-## 硬件
+## 🤩硬件
 
 - 最后统一以stm32rct6完成最终系统设计，所以吃资源分配，需要和嵌入式方面加强沟通
 - 封装的使用建议依据stm32f103精英版的PCB封装库，LED、电阻、电容的封装使用0805。USB封装也按照精英版的。（重中之重）。
@@ -87,7 +87,8 @@ layout: two-cols
 <br>
 <div class="p-l-5">
 
-## 网络
+## 🤗网络
+
   - 前端: NodeJS、Fetch(或者axios)、Vue(或者React)
   - 后端: 查找 mqtt 协议内容、MySQL(或者MongoDB)
   - 多与嵌入式方向的同学交流，网络的东西不是学了就可以完成任务的，一定要多查资料
@@ -97,6 +98,12 @@ layout: two-cols
 </div>
 
 <style>
+  h1 {
+    font-size: 28px!important;
+  }
+  h2 {
+    font-size: 24px!important;
+  }
   div {
     font-size: 13px;
   }
