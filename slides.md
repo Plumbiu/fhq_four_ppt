@@ -88,7 +88,7 @@ layout: two-cols
 <div class="p-l-5">
 
 ## 网络
-  - 前端：NodeJS、Fetch(或者axios)、Vue(或者React)
+  - 前端: NodeJS、Fetch(或者axios)、Vue(或者React)
   - 后端: 查找 mqtt 协议内容、MySQL(或者MongoDB)
   - 多与嵌入式方向的同学交流，网络的东西不是学了就可以完成任务的，一定要多查资料
   - 前端学习资料: [mqtt](https://blog.plumbiu.club/2023/02/08/2023-2-8-mqtt%E5%8D%8F%E8%AE%AE%E5%AE%9E%E6%88%98/)、[nodejs-mqtt](https://blog.plumbiu.club/2023/02/08/2023-2-8-%E4%BD%BF%E7%94%A8nodejs%E6%90%AD%E5%BB%BAmqtt/)
